@@ -1,10 +1,10 @@
-# Clean Start
+# Resume
 ---
-#### The plain and simple starter.
+#### resume template
 
-# Installation
+# test
 ---
-Install this starter (assuming Gatsby is installed) by running from your CLI: 
+test
 ```
-gatsby new clean gh:brianstone/gatsby-starter-clean
+test
 ```
